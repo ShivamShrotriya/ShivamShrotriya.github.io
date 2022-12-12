@@ -1,0 +1,42 @@
+# main links
+main:
+  - title: "About Me"
+    url: /pages/about/
+  #- title: "My Research"
+    #url: /pages/timeline
+  - title: "SpSeg"
+    url: /pages/SpSeg/
+  - title: "Publications"
+    url: /pages/Publications/
+  - title: "Learn"
+    url: /pages/learn/
+  - title: "Outreach"
+    url: /pages/outreach/
+  #- title: "Beyond science"
+    #url: /pages/interest/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+pubs:
+  - title: "Peer-reviewed papers (23)"
+    url: /pages/Publications/#peer-reviewed-research-articles
+  - title: "Scintific correspondence (01)"
+    url: /pages/Publications/#scientific-correspondence
+  - title: "Book chapter (01)"
+    url: /pages/Publications/#book-chapter
+  - title: "Reports and Protocols (08)"
+    url: /pages/Publications/#reports-and-protocols
+  - title: "Conference proceedings (10)"
+    url: /pages/Publications/#conference-proceedings-and-presentations
+  - title: "Popular articles (04)"
+    url: /pages/Publications/#popular-articles
+
+outs:
+  - title: "Popular talks"
+    url: /pages/outreach/#webinars-and-talks
+  - title: "Media coverage"
+    url: /pages/outreach/#in-media
