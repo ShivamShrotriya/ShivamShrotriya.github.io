@@ -27,7 +27,7 @@ Currently, I am working as a Project Scientist at the Wildlife Institute of Indi
 5. Field researcher- Project: ‘Assessing the potential for reintroducing the Cheetah in India’. *Wildlife Trust of India, Noida, India*, December 2009 - August 2010
 
 ### Education
-1. **PhD in Wildlife Science***, Thesis: ‘*Status, distribution and foraging ecology of wolf in the north-western Himalayan landscape, India*’, Saurashtra University, Rajkot, Gujrat, India. (2022)
+1. **PhD in Wildlife Science**, Thesis: ‘*Status, distribution and foraging ecology of wolf in the north-western Himalayan landscape, India*’, Saurashtra University, Rajkot, Gujrat, India. (2022)
 2. Master in Science (Wildlife Science), Dissertation: ‘*Cave ecosystem as function of cave morphology with special reference to Kotumsar and Dandak caves in Kanger Valley National Park, Bastar, Chhatisgarh, India*’, Aligarh Muslim University, Aligarh, Uttar Pradesh, India. (2009)
 3. Bachelor in Science, Subjects: *Zoology, Botany and Chemistry*, Kumaon University, Nainital, Uttarakhand, India. (2007)
 

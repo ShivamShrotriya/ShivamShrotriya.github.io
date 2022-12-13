@@ -20,7 +20,7 @@ Here are some talks I've given about my work:
 *Skip to 1:47:30 for my talk.*
 
 ### In media
-This is a collection of media coverage or my research and work:
+This is a collection of media coverage of my research and work:
 7.	[Himalayan wolf a major livestock predator, though not by choice: Study](https://www.downtoearth.org.in/test/news/himalayan-wolf-a-major-livestock-predator-though-not-by-choice-study-83610){:target="_blank"}, Down to Earth, 2022 (coverage of our paper Shrotriya et al. 2022)
 6.	[About half the diet of Indian, Himalayan wolves is domestic livestock: Study](https://www.downtoearth.org.in/news/wildlife-biodiversity/about-half-the-diet-of-indian-himalayan-wolves-is-domestic-livestock-study-81974){:target="_blank"}, Down to Earth, 2022 (coverage of our paper Khan et al. 2022)
 5.	[Environment, the Unsuspecting Victim of Cross-Border Conflicts](https://thebastion.co.in/politics-and/environment-the-unsuspecting-victim-of-cross-border-conflicts/){:target="_blank"}, Bastian, 2021 (Interview and comments on conservation in international conflict zones)
