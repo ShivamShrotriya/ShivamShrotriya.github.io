@@ -39,4 +39,4 @@ and conferences:
 > (1) International Congress for Conservation Biology (ICCB) 2019 conference, Kuala Lumpur, Malaysia organised by Society for Conservation Biology (SCB), (2) ICCB 2021, Kigali, Rwanda organised by SCB
 
 ### CV
-For more details [download the recent version of CV in PDF here](/docs/CV_shivam.pdf){:target="_blank"}
+For more details [download the recent version of CV in PDF here](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/CV_Shivam.pdf){:target="_blank"}
