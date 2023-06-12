@@ -12,6 +12,9 @@ sidebar:
 ---
 ### Webinars and talks
 Here are some talks I've given about my work at public platforms:
+-   Online panel discussion on “Overshadowed by Large Cats: Wolves in the Asian Highlands” on 17th May 2023 at ‘[Wolves Across Borders](https://www.wolvesacrossborders.com/post-conference-virtual-sessions)’ conference, Stockholm, Sweden
+{% include video id="H8VAxBHJU8s" provider="youtube" %}
+*Skip to 13:48 for my presentation.*
 -	Webinar on Himalaya Day, 9th September 2021 organised by Wildlife Institute of India- “Counting ungulate in the Trans-Himalayas: Simultaneous Point-Count method”
 {% include video id="WQKhQ4Z8Ve8" provider="youtube" %}
 *Skip to 1:47:30 for my talk.*
