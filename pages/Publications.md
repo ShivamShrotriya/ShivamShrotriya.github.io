@@ -75,3 +75,7 @@ Please [reach out to me](mailto:shivam.shrotriya@gmail.com) if you can’t acces
 2.	**Shrotriya, S.** (2021). [Of caves and Cavernicoles: A Memoir of the World in Darkness](https://www.saevus.in/of-caves-and-cavernicoles-a-memoir-of-the-world-in-darkness/){:target="_blank"}. Saevus Blog.
 3.	**Shrotriya, S.** (2018). [Lost Lupine: An ancient wolf lineage in the Himalayas needs an identity and conservation attention](https://www.downtoearth.org.in/blog/wildlife-biodiversity/lost-lupine-60566){:target="_blank"}. Down to Earth- Blog.
 4.	**Shrotriya, S.** (2017). [The Himalayan cousins](https://www.facebook.com/photo/?fbid=10211766491380384&set=a.10211766503500687){:target="_blank"}. Saevus, 5 (1), 22–23.
+
+## WII e-Newsletter
+1. **Shrotriya, S.** (2025). [The Tradegy of the Commons, and how to dodge it](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_The_Tradegy_of_the_Commons,_and_how_to_dodge_it.pdf){:target="_blank"}. WII E-Newsletter, 32(2), 1–3.
+2. **Shrotriya, S.** (2025). [Revisiting r- and K-Selection: Why this classic theory no longer fits modern ecology](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_Revisiting_r-_and_K-Selection_Why_this_classic_theory_no_longer_fits_modern_ecology.pdf){:target="_blank"}. WII E-Newsletter, 32(1), 57–61.
