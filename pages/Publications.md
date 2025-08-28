@@ -4,7 +4,7 @@ layout: pubs_pg
 #title: false #"Publications"
 permalink: /pages/Publications/
 excerpt: "List of my publications"
-last_modified_at: 2022-12-09
+last_modified_at: 2025-08-28
 redirect_from:
   - /theme-setup/
 cite: true
@@ -59,6 +59,9 @@ Please [reach out to me](mailto:shivam.shrotriya@gmail.com) if you can’t acces
 1.	Habib, B., **Shrotriya, S.**, & Jhala, Y. V. (2013). *Ecology and Conservation of Himalayan Wolf. Phase –I*. Technical Report No. TR – 2013/01. Wildlife Institute of India, Dehradun, India.
 
 ## Conference proceedings and presentations
+13. Nagarale, S., Habib, B., **Shrotriya, S.**, & Pandav, B. (2025). Dumping fear and building interactions: Food subsidies increase encounters of wild ungulates with livestock and other species. *2nd Indian Conference Conservation (ICCON 2025)- Dehradun*, 25-27 June, 2025, Wildlife Institute of India, Dehradun, India.
+12. Nagarale, S., **Shrotriya, S.**, Pandav, B., Habib, B. (2024). Mammalian response to the garbage sites around Rajaji National Park, Uttarakhand. *15th Student Conference on Conservation Science (SCCS)- Bengaluru*, 21-24 October, 2024, IISc, Bengaluru, India. DOI:10.13140/RG.2.2.23805.27360
+11. **Shrotriya, S.**, Hussain, Z., Kumar, A., Khan, A., Bhatia, A., Sunil, A., Rana, R. S., Rajput, S., Upasana, Nigam P., Goyal, S. P., Habib, B. (2024). Assessment of proposed linear infrastructure impacts on wildlife and habitat and suggest mitigation measures: Case studies from Rajaji Tiger Reserve, Uttarakhand. *35th Annual Research Seminar*, 24. Dehradun, India: Wildlife Institute of India. (Oral presentation)
 10.	**Shrotriya, S.**, Lyngdoh, S., Jhala, Y. V., & Habib, B. (2020). An application of Machine Learning to model the distribution of the Himalayan wolf. *National symposium on recent trends in zoological sciences*. 28-29 February. Shillong, Meghalaya, India: Department of zoology, North-Eastern Hill University.
 9.	**Shrotriya, S.**, Reshamwala, H. S., Lyngdoh, S., Jhala, Y. V., & Habib, B. (2019). Food habits of wolves and public attitude towards them: A study from the Trans-Himalayan landscape, India. *Conservation Beyond Boundaries: Connecting Biodiversity with Communities, Government and Stakeholders. 29th International Congress for Conservation Biology*. 21-25 July. Kuala Lumpur, Malaysia: Society for Conservation Biology.
 8.	**Shrotriya, S.**, Bhattacharya, A., Reshamwala, H. S., Takpa, J., Mohan, D., & Habib, B. (2018). What counts cannot always be counted: Ungulate populations in the Trans-Himalayas of India. *Conservation Asia 2018: Mainstreaming Conservation in a Changing Asia*, 57–58. Bishkek, Kyrgyzstan: American University of Central Asia and Society for Conservation Biology, Asia Chapter.
@@ -71,11 +74,11 @@ Please [reach out to me](mailto:shivam.shrotriya@gmail.com) if you can’t acces
 1.	**Shrotriya, S.**, Habib, B., & Jhala, Y. V. (2011). Ecology and Conservation of Himalayan Wolf, Phase-1. *7th Internal Annual Research Seminar*, (September), 5. Dehradun, India: Wildlife Institute of India.
 
 ## Popular articles
-1.	**Shrotriya, S.** (2022). [Bhediya: No, werewolves don’t exist. And wolves aren’t evil. Let’s enjoy the movie](https://www.downtoearth.org.in/blog/wildlife-and-biodiversity/bhediya-no-werewolves-don-t-exist-and-wolves-aren-t-evil-let-s-enjoy-the-movie-86205){:target="_blank"}. Down to Earth- Blog.
-2.	**Shrotriya, S.** (2021). [Of caves and Cavernicoles: A Memoir of the World in Darkness](https://www.saevus.in/of-caves-and-cavernicoles-a-memoir-of-the-world-in-darkness/){:target="_blank"}. Saevus Blog.
-3.	**Shrotriya, S.** (2018). [Lost Lupine: An ancient wolf lineage in the Himalayas needs an identity and conservation attention](https://www.downtoearth.org.in/blog/wildlife-biodiversity/lost-lupine-60566){:target="_blank"}. Down to Earth- Blog.
-4.	**Shrotriya, S.** (2017). [The Himalayan cousins](https://www.facebook.com/photo/?fbid=10211766491380384&set=a.10211766503500687){:target="_blank"}. Saevus, 5 (1), 22–23.
+4. **Shrotriya, S.** (2022). [Bhediya: No, werewolves don’t exist. And wolves aren’t evil. Let’s enjoy the movie](https://www.downtoearth.org.in/blog/wildlife-and-biodiversity/bhediya-no-werewolves-don-t-exist-and-wolves-aren-t-evil-let-s-enjoy-the-movie-86205){:target="_blank"}. Down to Earth- Blog.
+3. **Shrotriya, S.** (2021). [Of caves and Cavernicoles: A Memoir of the World in Darkness](https://www.saevus.in/of-caves-and-cavernicoles-a-memoir-of-the-world-in-darkness/){:target="_blank"}. Saevus Blog.
+2. **Shrotriya, S.** (2018). [Lost Lupine: An ancient wolf lineage in the Himalayas needs an identity and conservation attention](https://www.downtoearth.org.in/blog/wildlife-biodiversity/lost-lupine-60566){:target="_blank"}. Down to Earth- Blog.
+1. **Shrotriya, S.** (2017). [The Himalayan cousins](https://www.facebook.com/photo/?fbid=10211766491380384&set=a.10211766503500687){:target="_blank"}. Saevus, 5 (1), 22–23.
 
 ## WII e-Newsletter
-1. **Shrotriya, S.** (2025). [The Tradegy of the Commons, and how to dodge it](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_The_Tradegy_of_the_Commons,_and_how_to_dodge_it.pdf){:target="_blank"}. WII E-Newsletter, 32(2), 1–3.
-2. **Shrotriya, S.** (2025). [Revisiting r- and K-Selection: Why this classic theory no longer fits modern ecology](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_Revisiting_r-_and_K-Selection_Why_this_classic_theory_no_longer_fits_modern_ecology.pdf){:target="_blank"}. WII E-Newsletter, 32(1), 57–61.
+2. **Shrotriya, S.** (2025). [The Tragedy of the Commons, and how to dodge it](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_The_Tradegy_of_the_Commons,_and_how_to_dodge_it.pdf){:target="_blank"}. WII E-Newsletter, 32(2), 1–3.
+1. **Shrotriya, S.** (2025). [Revisiting r- and K-Selection: Why this classic theory no longer fits modern ecology](https://github.com/ShivamShrotriya/ShivamShrotriya.github.io/raw/main/docs/Shrotriya2025_Revisiting_r-_and_K-Selection_Why_this_classic_theory_no_longer_fits_modern_ecology.pdf){:target="_blank"}. WII E-Newsletter, 32(1), 57–61.
