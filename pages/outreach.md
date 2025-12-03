@@ -2,7 +2,7 @@
 title: false #"Publications"
 permalink: /pages/outreach/
 excerpt: "List of my outreach activities"
-last_modified_at: 2022-09-15
+last_modified_at: 2025-12-03
 redirect_from:
   - /theme-setup/
 toc: false
