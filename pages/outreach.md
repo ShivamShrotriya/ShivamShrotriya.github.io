@@ -12,6 +12,9 @@ sidebar:
 ---
 ### Webinars and talks
 Here are some talks I've given about my work at public platforms:
+-   Talk in the online conference [Bird Monitoring Symposium 2025](https://www.birdmonitoring.in/symposium-2025/){:target="_blank"}, on 6th September, 2025- "Significance of academic campuses for sheltering India’s bird diversity in urban spaces".
+{% include video id="DoV9YYw45FI" provider="youtube" %}
+*Skip to 33:35 for my presentation.*
 -   Online panel discussion on “Overshadowed by Large Cats: Wolves in the Asian Highlands” on 17th May 2023 at ‘[Wolves Across Borders](https://www.wolvesacrossborders.com/post-conference-virtual-sessions)’ conference, Stockholm, Sweden
 {% include video id="H8VAxBHJU8s" provider="youtube" %}
 *Skip to 13:48 for my presentation.*
